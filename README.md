@@ -1,5 +1,5 @@
 # Ex01 Portfolio
-## Date:
+## Date:30/10/2026
 
 ## AIM
 To create a Portfolio using HTML and CSS.
@@ -743,6 +743,21 @@ footer a {
 }
 ```
 ## OUTPUT
+
+<img width="1907" height="1027" alt="image" src="https://github.com/user-attachments/assets/26359e52-b0b6-4c7a-a637-953f24db05b1" />
+
+<img width="1897" height="1021" alt="image" src="https://github.com/user-attachments/assets/40a8cec3-d8ae-4b87-b2c8-9e8e17bb83ae" />
+
+<img width="1896" height="1016" alt="image" src="https://github.com/user-attachments/assets/b21e9342-f829-411c-ae0f-756e0bd70f68" />
+
+<img width="1915" height="1026" alt="image" src="https://github.com/user-attachments/assets/463694ac-ba60-4b64-bcc2-e0dea17a6cc5" />
+
+<img width="1895" height="1012" alt="image" src="https://github.com/user-attachments/assets/33af715c-8e2a-4288-9412-77c8f4607837" />
+
+<img width="1712" height="757" alt="image" src="https://github.com/user-attachments/assets/fc5995f4-0286-48ed-8b3c-dac1641b9c37" />
+
+<img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/2d98734d-c28e-49aa-8c35-33b7fd5da1a3" />
+
 
 
 ## RESULT
